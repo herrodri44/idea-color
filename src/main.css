@@ -1,0 +1,23 @@
+@import 'tailwindcss';
+@import 'primeicons/primeicons.css';
+
+html {
+  scroll-behavior: smooth;
+}
+body {
+  background-color: #f3f4f6;
+  color: #000100ff;
+}
+
+@theme {
+  --color-black: #000100ff;
+  --color-rosy-brown: #c68e8dff;
+  --color-van-dyke: #483732ff;
+  --color-sunset: #fbcb96ff;
+  --color-columbia-blue: #c4e1edff;
+
+  --color-customOrange: '#DB9422';
+  --color-customPink: '#DD2ABD';
+  --color-customBlue: '#58B3EA';
+  --color-customGreen: '#00C14E';
+}
