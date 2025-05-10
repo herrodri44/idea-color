@@ -19,7 +19,7 @@
         </p>
         <p class="my-2">
           <span class="font-bold">Dirección:</span>
-          Avd. Conde Lyminares 34, Local 4, 03010 Alicante
+          Avd. Conde Lumiares 34, Local 4, 03010 Alicante
         </p>
       </div>
     </footer>
